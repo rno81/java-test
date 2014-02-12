@@ -15,4 +15,8 @@ public class Println {
         System.out.println(s);
     }
 
+    public static final void print(int i){
+        System.out.println(i);
+    }
+
 }

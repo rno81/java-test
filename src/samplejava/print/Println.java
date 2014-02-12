@@ -15,4 +15,6 @@ public class Println {
         System.out.println(s);
     }
 
+	//zmiana PPL
+
 }

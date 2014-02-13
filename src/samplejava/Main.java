@@ -13,7 +13,7 @@ public class Main {
 
     /**
      * @param args the command line arguments
-	 * Robert Nowak
+	 * Robert Nowak (RNO)
      */
     public static void main(String[] args) {
         // TODO code application logic here

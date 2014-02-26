@@ -33,6 +33,12 @@ public class Println {
     }
 
 	//zmiana PPL
+	
+	public static final void print(char character, boolean silent){
+		if(!silent){
+			System.out.println(character);
+		}
+    }
 
 
 }

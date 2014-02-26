@@ -28,8 +28,8 @@ public class Println {
         System.out.println(d);
     }
 	
-	public static final void print(char c){
-        System.out.println(c);
+	public static final void print(char character){
+        System.out.println(character);
     }
 
 	//zmiana PPL

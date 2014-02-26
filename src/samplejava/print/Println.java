@@ -19,6 +19,14 @@ public class Println {
     public static final void print(int i){
         System.out.println(i);
     }
+	
+	public static final void print(long i){
+        System.out.println(i);
+    }
+	
+	public static final void print(double d){
+        System.out.println(d);
+    }
 
 	//zmiana PPL
 

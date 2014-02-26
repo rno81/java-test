@@ -27,6 +27,10 @@ public class Println {
 	public static final void print(double d){
         System.out.println(d);
     }
+	
+	public static final void print(char c){
+        System.out.println(c);
+    }
 
 	//zmiana PPL
 

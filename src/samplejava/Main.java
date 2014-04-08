@@ -13,7 +13,7 @@ public class Main {
 
     /**
      * @param args the command line arguments
-	 * Robert Nowak (RNO & PPL & MNO & LS & MCH & Nowy Autor + DDD)
+	 * Robert Nowak (RNO & PPL & MNO & LS & MCH & Nowy Autor + DDD ) Poprawka
 	 * This comment should be present in version 1.0.0 (hotfix for 1.0.0)
      */
     public static void main(String[] args) {
